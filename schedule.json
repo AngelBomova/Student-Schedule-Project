@@ -1,0 +1,45 @@
+[
+    {
+          "class_name": "AP Computer Science A",
+          "teacher_name": "Mrs.Hoagland",
+          "room_number": "B108",
+          "days": "A, B, C, E, F"
+    },
+    {
+        "class_name": "Honors NJIT IS219 Advanced Website Development W",
+        "teacher_name": "Mrs.Herbert",
+        "room_number": "B114",
+        "days": "A, B, D, E, F"
+    },
+    {
+        "class_name": "Applied Art 1",
+        "teacher_name": "Mr.Sharky",
+        "room_number": "A103",
+        "days": "A, C, D, E, G"
+  },
+  {
+    "class_name": "English 4",
+    "teacher_name": "Mr.Verdoni",
+    "room_number": "E101",
+    "days": "B, C, D, F, G"
+},
+{
+    "class_name": "AP US Govt & Politics",
+    "teacher_name": "Mr.Briggs",
+    "room_number": "G104",
+    "days": "A, B, D, E, G"
+},
+{
+    "class_name": "Physical Ed 12 Lab",
+    "teacher_name": "Mrs.Hastings",
+    "room_number": "Main Gym",
+    "days": "A, C, D, G"
+},
+{
+    "class_name": "AP Environmental Science",
+    "teacher_name": "Mrs.Matthews",
+    "room_number": "C210",
+    "days": "B, C, E, F, G"
+}
+
+]
